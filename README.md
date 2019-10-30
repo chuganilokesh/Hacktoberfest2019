@@ -40,6 +40,14 @@
         </b></p></div>  
 
 ***  
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://twitter.com/WajahatKarim">lokesh</a> and
+  <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/graphs/contributors">
+    contributors
+  </a>
+</div>
+  
   
 # ❓ What's Hacktoberfest 2019?
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2019.
